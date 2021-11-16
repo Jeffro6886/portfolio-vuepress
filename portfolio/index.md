@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>Welcome to Wood Alchemist Studio</strong>, with the one-off woodturning
-  and sculptural work of Jeffrey W Roop."
+hero_text: "<strong>Welcome to Wood Alchemist Studio</strong>,<br> with the one-off
+  woodturning and sculptural work of Jeffrey W Roop."
 title: Hero
 
 ---
