@@ -1,15 +1,14 @@
 ---
 title: Project three
-date: 2017-02-04 00:00:00 +0000
-thumbnail: "/upload/photo-1504198322253-cfa87a0ff25f.jpeg"
+date: 2017-02-04T00:00:00.000+00:00
+thumbnail: "/upload/eroded-sphere.jpg"
 year: 2017
-categories:
-- print
-description: subtitle
+categories: []
+description: Electrical wood erosion and pyrography.
 
 ---
 # Project three
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hand turned sycamore sphere subjected to high voltage wood erosion and pyrography.
 
-![](/upload/photo-1504198322253-cfa87a0ff25f.jpeg)
+![](/upload/eroded-sphere.jpg)
