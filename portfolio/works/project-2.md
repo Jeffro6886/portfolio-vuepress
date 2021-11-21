@@ -1,15 +1,14 @@
 ---
 title: Project two
-date: 2018-08-09 18:05:37 +0000
-thumbnail: "/upload/photo-1516906736502-5d3fedc3019a.jpeg"
+date: 2018-08-09T18:05:37.000+00:00
+thumbnail: "/upload/img_6268.JPG"
 year: 2016
-description: subtitle
-categories:
-- print
+description: An experiment in piercing and repair.
+categories: []
 
 ---
 # Project two
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A thin turned vessel made of fig. A catch while hollowing to get it thinner led to the repair and the piercing.
 
-![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
+![](/upload/img_6268.JPG)
