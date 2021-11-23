@@ -9,4 +9,6 @@ date:
 ---
 # Thingamajig
 
+![](/upload/images-large-b20200115t000000001.jpg)
+
 A piece of sycamore turned on three axes subsequently carved, burned, and painted.
