@@ -35,4 +35,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/frankenbowl.md
 - portfolio/works/thingamajig.md
