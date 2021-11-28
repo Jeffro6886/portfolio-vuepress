@@ -35,5 +35,6 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/carved-brushfire-bowl.md
 - portfolio/works/frankenbowl.md
 - portfolio/works/thingamajig.md
