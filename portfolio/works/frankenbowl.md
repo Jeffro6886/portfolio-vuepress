@@ -10,3 +10,5 @@ date:
 # Frankenbowl
 
 A hand-turned cedar bowl that split due to an accident and was repaired using bolts.
+
+![](/upload/4_original.jpeg)
