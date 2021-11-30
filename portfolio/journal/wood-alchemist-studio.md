@@ -5,3 +5,5 @@ date:
 
 ---
 Wood Alchemist Studio is about wood transformed! Whether it's a bowl or a turned sculptural piece, the studio seeks to express the continued beauty of wood....
+
+![](/upload/logo-lrg.png)
